@@ -40,30 +40,16 @@ motto: "Great software isn't just built — it's shipped."
   <img src="https://skillicons.dev/icons?i=flutter,dart,react,js,python,fastapi,html,css,tailwind,bootstrap,firebase,gcp,cloudflare,git,github&theme=dark" />
 </div>
 
+<div align="center">
+  <b>Also:</b> Project Management · Agile / Scrum · Jira · REST APIs
+</div>
+
 ---
 
-## 📊 GitHub Analytics
+## 📈 My Contribution Graph
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=formerSHAXA&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=formerSHAXA&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=formerSHAXA&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&langs_count=8" />
-</div>
-
-<!-- ===== ANIMATED ACTIVITY GRAPH ===== -->
 <div align="center">
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=formerSHAXA&theme=tokyo-night&hide_border=true&area=true&color=29b6f6&line=29b6f6&point=ffffff" />
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=formerSHAXA&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
 </div>
 
 ---
