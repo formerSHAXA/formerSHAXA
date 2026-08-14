@@ -1,40 +1,77 @@
-<h1 align="center">Hi 👋, I'm Shokhrukh Odiljonov</h1>
-<h3 align="center">Founder & Developer · Project Manager · Building products end to end</h3>
+<!-- ===== HEADER WAVE ===== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d47a1,100:29b6f6&height=200&section=header&text=Shokhrukh%20Odiljonov&fontColor=ffffff&fontSize=42&animation=fadeIn&fontAlignY=38&desc=Founder%20•%20Developer%20•%20Project%20Manager&descAlignY=60&descSize=18" />
+
+<!-- ===== TYPING ANIMATION ===== -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=29B6F6&center=true&vCenter=true&width=600&lines=Founder+of+IELTS-PS+%F0%9F%9A%80;Project+Manager+%40+Asaxiy+Invest;I+build+apps+with+Flutter%2C+React+%26+FastAPI;Great+software+isn't+just+built+%E2%80%94+it's+shipped." alt="Typing SVG" />
+</div>
+
+<!-- ===== PROFILE VIEWS + FOLLOW ===== -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=formerSHAXA&label=Profile%20views&color=29b6f6&style=flat" alt="views" />
+  <a href="https://github.com/formerSHAXA?tab=followers"><img src="https://img.shields.io/github/followers/formerSHAXA?label=Followers&style=social" alt="followers" /></a>
+</div>
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
+
+```yaml
+name: Shokhrukh Odiljonov
+role: Founder & Developer | Project Manager
+company: Asaxiy Invest
+startup: IELTS-PS (mobile app + website)
+building_with: [Flutter, React.js, FastAPI, Python]
+focus: "clean code, shipping on time, products people actually use"
+languages: [Uzbek, Tajik (native), Russian, English (IELTS 6.5)]
+motto: "Great software isn't just built — it's shipped."
+```
+
 - 🏢 **Project Manager** at **Asaxiy Invest**
-- 🎓 **Founder** of **[IELTS-PS](https://ielts-ps.uz)** — an IELTS preparation platform (mobile app + website)
-- 💻 I build with **Flutter**, **React.js**, and **FastAPI (Python)** — frontend, backend, and everything between
-- 🧩 I care about clean code, shipping on time, and products people actually use
-- 🌱 Always learning — currently going deeper into system design & scalable backends
-- 📫 Reach me: **[LinkedIn](https://www.linkedin.com/in/shokhrukh-odiljonov-61b73a364/)** · [Instagram](https://instagram.com/shokhrukh_odiljonov)
-- 🗣️ Languages: Uzbek, Tajik (native) · Russian · English (IELTS 6.5)
+- 🎓 **Founder** of **[IELTS-PS](https://ielts-ps.uz)** — IELTS preparation platform
+- 💻 Frontend, backend, and everything between
+- 📫 **[LinkedIn](https://www.linkedin.com/in/shokhrukh-odiljonov-61b73a364/)** · [Instagram](https://instagram.com/shokhrukh_odiljonov)
 
 ---
 
-### 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+## 🛠️ Tech Stack
 
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-**Also:** Project Management · Agile / Scrum · Jira · REST APIs
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=formerSHAXA&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=formerSHAXA&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-</p>
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=formerSHAXA&theme=tokyonight&hide_border=false" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=formerSHAXA&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,js,python,fastapi,html,css,tailwind,bootstrap,firebase,gcp,cloudflare,git,github&theme=dark" />
+</div>
 
 ---
 
-<p align="center"><i>"Great software isn't just built — it's shipped." 🚀</i></p>
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=formerSHAXA&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=formerSHAXA&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=formerSHAXA&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&langs_count=8" />
+</div>
+
+<!-- ===== ANIMATED ACTIVITY GRAPH ===== -->
+<div align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=formerSHAXA&theme=tokyo-night&hide_border=true&area=true&color=29b6f6&line=29b6f6&point=ffffff" />
+</div>
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=formerSHAXA&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
+</div>
+
+---
+
+<!-- ===== QUOTE ===== -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
+
+<!-- ===== FOOTER WAVE ===== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:29b6f6,100:0d47a1&height=120&section=footer" />
