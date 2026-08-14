@@ -46,7 +46,7 @@ motto: "Great software isn't just built — it's shipped."
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=formerSHAXA&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=formerSHAXA&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=formerSHAXA&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
